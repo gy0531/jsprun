@@ -10,6 +10,7 @@ import cn.jsprun.utils.Base64;
 import cn.jsprun.utils.JspRunConfig;
 import com.tenpay.c2c.bean.PayRequest;
 import com.tenpay.c2c.helper.PayRequestHelper;
+
 public class Tenpayapi {
 	public static int JSPRUN_COMMISION=0;
 	public static int JSPRUN_DIRECTPAY=1;
