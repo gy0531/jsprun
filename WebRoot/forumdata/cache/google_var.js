@@ -1,0 +1,1 @@
+var google_host="localhost:80";var google_charset="UTF-8";var google_hl="";var google_lr="lang_";
